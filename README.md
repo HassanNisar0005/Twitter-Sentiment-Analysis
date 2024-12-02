@@ -36,15 +36,6 @@ This repository contains a complete pipeline for performing sentiment analysis o
 
 ---
 
-## Structure of the Repository
-- **Data/**: Contains datasets used for training and testing the model.
-- **Notebooks/**: Includes Jupyter notebooks for exploring the dataset, preprocessing, and training the model.
-- **Models/**: Stores trained models for reuse.
-- **Scripts/**: Python scripts for preprocessing, model training, and inference.
-- **App/**: Code for deploying the sentiment analysis model via a web interface.
-
----
-
 ## Requirements
 To run this project, ensure you have the following dependencies installed:
 - Python 3.x
